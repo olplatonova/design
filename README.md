@@ -4,3 +4,6 @@ https://docs.google.com/spreadsheets/d/1xyCmnSBwS908ySIlAP2HDSddubqWdGIqQZROXJ75
 
 Попарное тестирование
 https://docs.google.com/spreadsheets/d/1xzwzOEcg-_Fo2sHyfyfQt23KaeXX__kBmdTyEKFkXwg/edit?gid=0#gid=0
+
+Тестирование модуля оплаты Paypal
+https://docs.google.com/spreadsheets/d/1lBlPEU3RcAtzoZ9n2d-H74N6ngBhuPDuSlIJYMP6UA4/edit?gid=0#gid=0
